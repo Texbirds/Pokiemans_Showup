@@ -1,6 +1,6 @@
 ﻿namespace Pokiemans_Showup
 {
-    partial class Form1
+    partial class ClientGUI
     {
         /// <summary>
         ///  Required designer variable.

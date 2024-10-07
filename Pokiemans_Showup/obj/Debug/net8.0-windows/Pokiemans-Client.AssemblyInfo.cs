@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pokiemans_Showup")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pokiemans-Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0489b8b7ae505636681bb7f41629e37e22394d56")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pokiemans_Showup")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pokiemans_Showup")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pokiemans-Client")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pokiemans-Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
