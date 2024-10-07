@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Pokiemans_Showup\\Pokiemans_Showup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EFAA7F-F761-4C59-B9A4-C9F6CF199D33}|Pokiemans_Showup\\Pokiemans_Showup.csproj|c:\\dev\\pokiemans_showup\\pokiemans_showup\\pokiemans_showup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8EFAA7F-F761-4C59-B9A4-C9F6CF199D33}|Pokiemans_Showup\\Pokiemans_Showup.csproj|solutionrelative:pokiemans_showup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\dev\\Pokiemans_Showup\\Pokiemans_Showup\\Pokiemans_Showup\\Form1.cs",
+              "RelativeDocumentMoniker": "Pokiemans_Showup\\Form1.cs",
+              "ToolTip": "C:\\dev\\Pokiemans_Showup\\Pokiemans_Showup\\Pokiemans_Showup\\Form1.cs [Design]",
+              "RelativeToolTip": "Pokiemans_Showup\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:26:44.436Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
